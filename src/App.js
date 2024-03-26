@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Kiana
+          Learn React with Kiana and MSU!
         </a>
       </header>
     </div>
